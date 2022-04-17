@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "first try npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrsDante/hexlet-js.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "MrsDante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrsDante/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/MrsDante/hexlet-js#readme",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
